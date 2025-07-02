@@ -25,7 +25,7 @@ VideoFlix demonstrates how to build scalable iOS apps with best practices like *
 
 | Video List (Light Mode) | Video List (Dark Mode) | Player View |
 |-------------------------|------------------------|-------------|
-| ![Light](Assets/list-light.png) | ![Dark](Assets/list-dark.png) | ![Player](Assets/player-view-light.png)|
+| ![Light](assets/list-light.png) | ![Dark](assets/list-dark.png) | ![Player](assets/player-view-light.png)|
 
 ---
 
