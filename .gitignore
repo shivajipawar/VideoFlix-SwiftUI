@@ -1,0 +1,80 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata
+*.xcworkspace
+DerivedData/
+.idea/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# SwiftPM
+.build/
+Package.resolved
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Fastlane
+fastlane/report.xml
+fastlane/screenshots
+fastlane/test_output
+
+# SwiftLint
+.swiftlint.tmp
+
+# Archives
+*.xcarchive
+
+# Firebase Crashlytics
+*.sym
+
+# Simulator logs
+*.log
+*.crash
+
+# Core Data
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Assets cache
+*.xcassets/*.imageset/*.png
+
+# Media Downloads (if caching in app directory)
+Downloads/
+
+# User-specific files
+*.personal.xcconfig
+*.local
+
+# Temporary
+*.tmp
+*.swp
+*~
+
+# Environment
+.env
+.env.*
+
+# CI
+.gitlab-ci.yml
+github/workflows/*.lock
+
+# Xcode preview canvas
+*.preview-thumbnails
